@@ -18,10 +18,10 @@ if homework == 'yes':
 else:
     print('Finish homework. before doing the activities')
   
-if day == 'Saturday' or 'Sunday':
+if day == 'Saturday' or day == 'Sunday':
     print('Weekend - Enjoy your free time!')
 else:
-  print('Weekday - Geat Ready for School!')
+    print('Weekday - Geat Ready for School!')
 
 if weather == 'Sunny':
     print("Sunny - Have fun outside")
