@@ -2,7 +2,7 @@ order_amount = float(input('How much does your order cost? '))
 premium = input('Are you a premium member? ')
 if premium == 'yes':
     print(f'Your total order amount will be {order_amount}')
-    elif
+    
 domestic = input('Are you ordering from the US? ')
 international = input('Are you ordering from outside the US?')
 
