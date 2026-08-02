@@ -27,6 +27,7 @@ if weather == 'Sunny':
     print("Sunny - Have fun outside")
 else:
     print('Bad weather, consider bringing an umbrella')
+     
  
 
 
