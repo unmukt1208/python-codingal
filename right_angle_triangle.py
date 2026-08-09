@@ -10,3 +10,4 @@ for i in range(n):
         print(special_character, end=' ')
         
     print()
+
