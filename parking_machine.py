@@ -15,3 +15,5 @@ if total == 3:
 else:
     change = total - 3
     print(f'The change amount is {change}. Enjoy your day')
+
+    
